@@ -1,0 +1,17 @@
+# carpeta especifica
+/del/
+
+# dependencias
+node_modules/
+
+# configuracio local
+.env
+.env.local
+
+# archivos del sistema
+.DS_Store
+Thumbs.db
+
+# carpetas de compilacion
+dist/
+build/
